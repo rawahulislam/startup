@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+  We are going top work on startup idea our location is bengluru.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
